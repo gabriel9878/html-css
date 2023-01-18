@@ -3,4 +3,4 @@
 
  Gerenciando repositorios!
 
- <a href="gabriel9878.github.io/html-css/exercicios"></a>
+ <a href="https://gabriel9878.github.io/html-css/exercicios">Ir para os exercicios</a>
